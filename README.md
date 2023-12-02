@@ -5,4 +5,5 @@ Login and Password Details
 admin@mail.com
 cashier@mail.com
 test@mail.com
+
 Same Password for all logins: dbmsproject
